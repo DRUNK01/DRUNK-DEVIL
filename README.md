@@ -10,4 +10,4 @@
 <p>pip install bs4<br<br></p>
 <P>git clone https://github.com/DRUNK01/DRUNK-DEVIL.git<br></p>
 <p>cd DRUNK-DEVIL<br></p>
-<p>python DRUNK-DEVIL<br></p>
+<p>python DRUNK-DEVIL.py<br></p>
